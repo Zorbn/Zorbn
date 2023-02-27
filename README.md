@@ -1,6 +1,6 @@
 ### [Fast Mine](https://github.com/Zorbn/FastMine)
-![screenshot](./Extra/fastMineScreenshot.png)
+<img src="./Extra/fastMineScreenshot.png" width="640" title="Fast Mine">
 ### [Towers Of Towers](https://github.com/Zorbn/TowersOfTowers)
-![screenshot](./Extra/towersOfTowersScreenshot.png)
+<img src="./Extra/towersOfTowersScreenshot.png" width="640" title="Towers Of Towers">
 ### [Heights](https://github.com/Zorbn/Heights)
-![screenshot](./Extra/heightsScreenshot.png)
+<img src="./Extra/heightsScreenshot.png" width="640" title="Heights">
